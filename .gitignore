@@ -63,5 +63,11 @@ coverage.xml
 docs/_build/
 
 # PyBuilder
-target/
-
+target/		
+.gitignore
+smsspamcollection.zip
+.ipynb_checkpoints
+.DS_Store
+spambase.data.csv
+smsspamcollection
+.enrvc
